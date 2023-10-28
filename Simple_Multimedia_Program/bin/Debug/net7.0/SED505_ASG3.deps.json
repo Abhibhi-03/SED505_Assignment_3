@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SED505_ASG3/1.0.0": {
+        "runtime": {
+          "SED505_ASG3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SED505_ASG3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
