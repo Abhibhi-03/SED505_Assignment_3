@@ -1,0 +1,14 @@
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\bin\Debug\net7.0\SED505_ASG3.exe
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\bin\Debug\net7.0\SED505_ASG3.deps.json
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\bin\Debug\net7.0\SED505_ASG3.runtimeconfig.json
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\bin\Debug\net7.0\SED505_ASG3.dll
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\bin\Debug\net7.0\SED505_ASG3.pdb
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.AssemblyInfoInputs.cache
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.AssemblyInfo.cs
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.dll
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\refint\SED505_ASG3.dll
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.pdb
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\SED505_ASG3.genruntimeconfig.cache
+C:\Users\ENVY\Desktop\SED505_ASG3\SED505_ASG3\obj\Debug\net7.0\ref\SED505_ASG3.dll
