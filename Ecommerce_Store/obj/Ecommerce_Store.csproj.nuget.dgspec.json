@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENVY\\Desktop\\SED505_ASG3\\Ecommerce_Store\\Ecommerce_Store.csproj": {}
+    "C:\\Users\\ENVY\\Desktop\\Seneca\\SED505\\SED505_Assignment_3\\Ecommerce_Store\\Ecommerce_Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENVY\\Desktop\\SED505_ASG3\\Ecommerce_Store\\Ecommerce_Store.csproj": {
+    "C:\\Users\\ENVY\\Desktop\\Seneca\\SED505\\SED505_Assignment_3\\Ecommerce_Store\\Ecommerce_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENVY\\Desktop\\SED505_ASG3\\Ecommerce_Store\\Ecommerce_Store.csproj",
+        "projectUniqueName": "C:\\Users\\ENVY\\Desktop\\Seneca\\SED505\\SED505_Assignment_3\\Ecommerce_Store\\Ecommerce_Store.csproj",
         "projectName": "Ecommerce_Store",
-        "projectPath": "C:\\Users\\ENVY\\Desktop\\SED505_ASG3\\Ecommerce_Store\\Ecommerce_Store.csproj",
+        "projectPath": "C:\\Users\\ENVY\\Desktop\\Seneca\\SED505\\SED505_Assignment_3\\Ecommerce_Store\\Ecommerce_Store.csproj",
         "packagesPath": "C:\\Users\\ENVY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENVY\\Desktop\\SED505_ASG3\\Ecommerce_Store\\obj\\",
+        "outputPath": "C:\\Users\\ENVY\\Desktop\\Seneca\\SED505\\SED505_Assignment_3\\Ecommerce_Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
