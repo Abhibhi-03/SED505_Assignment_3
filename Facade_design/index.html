@@ -73,8 +73,13 @@
         </p>
 
         <h1>Problem and Solution - Facade Pattern</h1>
+        <h2>Simple Code(Multimedia Design)</h2>
+        <p>We have subsystems representing various multimedia devices like TV, DVD player, and sound system. The facade, in this case, is a universal remote control that simplifies the user interface for operating these devices.</p>
+        <p>Subsystem Classes (TV, DVDPlayer, SoundSystem): These represent individual multimedia devices with their specific functionalities.</p>
+        <p>Facade Class (UniversalRemoteControl): This class provides simplified methods (WatchMovie, EndMovie, AdjustVolume) that internally interact with the subsystems. The client code interacts only with the UniversalRemoteControl class, simplifying the usage of the multimedia system.</p>
+        <p>Client Code (Program.Main): The client code uses the UniversalRemoteControl class to perform actions on the multimedia system. The client is shielded from the complexities of individual devices.</p>
 
-        <h2>Problem:</h2>
+        <h2>Problem(Complex Problem):</h2>
         <p>In the e-commerce design, we need to manage a complex system that involves multiple subsystems, including product catalogs, shopping carts, and payment processing. These subsystems have their own interfaces and intricacies, making it challenging for client code (such as the user interface) to interact with the system as a whole. Additionally, changes to these subsystems should not impact the client code, and we want to ensure modularity and flexibility in the system.</p>
     
         <h2>Solution - Facade Pattern:</h2>
